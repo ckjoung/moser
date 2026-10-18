@@ -1,0 +1,4 @@
+heyoka==6.1.2   # heyoka.py, conda-forge
+numpy==1.26.4
+scipy==1.13.1
+mpmath==1.3.0
